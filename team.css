@@ -1,0 +1,135 @@
+.navbardiv{
+    visibility: visible;
+    background-color: #ffffff;
+    display: flex;
+   justify-content: space-around;
+   border: 4px solid #e2e2e2;
+   padding: 10px;
+   font-family: 'Black Ops One', cursive;
+}
+#fosseelogo{
+   padding: 3px;
+    border: 2px solid rgb(134, 137, 165);
+}
+#firstitem:hover a{
+    color: #f56010;
+    
+    cursor: pointer;
+}
+#seconditem:hover a{
+    color: #f56010;
+    cursor: pointer;
+    
+}
+#thirditem:hover a{
+    
+    color: #f56010;
+    cursor: pointer;
+    
+}
+#fourthitem:hover a{
+    color: #f56010;
+    cursor: pointer;
+}
+#lastitem:hover a{
+    color: #f56010;
+    cursor: pointer;
+
+}
+#firstitem a{
+    text-decoration: none;
+    color: #0a0c0e;
+}
+ #seconditem a{
+    text-decoration: none;
+    color: #0a0c0e;
+}
+ #thirditem a{
+    text-decoration: none;
+    color: #0a0c0e;
+}
+ #fourthitem a{
+    text-decoration: none;
+    color: #0a0c0e;
+}
+#lastitem a{
+    text-decoration: none;
+    color: #0a0c0e;
+}
+#teamtext{
+   
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-transform:uppercase;  
+    font-size: larger;
+     color: #0050c8;
+    background-color: #f3eedf;
+        padding: 6px;
+        letter-spacing: 2px;
+        
+    
+}
+#teamhead{
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+}
+#graphichead{
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+}
+figcaption{
+    font-family: myFirstFont;
+}
+hr{
+    visibility: hidden;
+}
+.bottominfo{
+    background-color: #b4add14b;
+    padding: 20px;
+    border-radius: 6px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bottominfo li{
+    list-style-type: none;
+}
+#liitem1{
+    font-family: 'Belgrano', serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+#btmsecitem1{
+    font-family: 'Belgrano', serif;
+    font-weight: bolder;
+    font-size: larger;
+}
+.bottomsection1 li:hover{
+    color: #f56010;
+    cursor: pointer;
+}
+
+.bottomsection2 li:hover{
+    color: #f56010;
+    cursor: pointer;
+}
+.bottomsection3 li:hover{
+    color: #f56010;
+    cursor: pointer;
+}
+#contacttext{
+    font-family: 'Belgrano', serif;
+    font-weight: bolder;
+    font-size: larger;
+}
+#liitem1:hover{
+    color: black;
+}
+#btmsecitem1:hover{
+    color: black;
+}
+#contacttext:hover{
+    color:black;
+}
